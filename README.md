@@ -22,7 +22,7 @@
 ---
 
 ### 🛠 Tools I Use
-<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" src="https://img.icons8.com/fluency/48/000000/postman-api.png"/>  
+<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> 
 <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/notion.png"/>  
 
 ---
