@@ -9,8 +9,7 @@
 - 🎯 Transitioned from **Mechanical Engineering → Machine Operator → Software Developer**  
 
 ### 🌐 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sahad-saleel-7a535b33b/)  
-[<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/your_instagram_here)  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sahad-saleel-7a535b33b/)   
 
 ---
 
