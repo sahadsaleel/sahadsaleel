@@ -3,7 +3,7 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 Currently learning **MERN Stack & DSA**  
-- 🔭 Portfolio: *Coming Soon...*  
+- 🔭 Portfolio: https://portfolio-bbkj.onrender.com  
 - 📘 Student @ [Brototype](https://brototype.com/)  
 - ⚡ Fun fact: I practice typing 1 hour daily and completed **360 levels in TypingClub**  
 - 🎯 Transitioned from **Mechanical Engineering → Machine Operator → Software Developer**  
