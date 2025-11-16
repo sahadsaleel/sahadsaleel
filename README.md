@@ -8,9 +8,7 @@ MERN Stack & DSA
 
 https://sahad-saleel-portfolio.vercel.app/
 
-📘 Student @
-
-Brototype
+📘 Student @Brototype
 
 
 ⚡ Fun fact
