@@ -1,72 +1,74 @@
-<img src="https://media.tenor.com/2uyENR6pC8kAAAAC/coding.gif" width="70"/> Sahad Saleel — Full-Stack Developer
+✨ Hey, I'm Sahad Saleel!
 
-Crafting clean experiences. Building scalable systems.
-Living in dark mode. 🚀
+A MERN Stack Developer | DSA Learner | Building Clean & Scalable Apps
 
-⚡ About Me
-<img align="right" width="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRseXZ3MGNkbmpuang0OHprOXJ3czEzbTlpYmx2ZGszZGw2cmw5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3iyKHMIKg5VWG6qHUm/giphy.gif">
+<img align="right" width="330" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJtdjU4a3FibGo1Y3UwN2Rnc24zZWVoZzd3Z3Z1bW1mMmFnNmk2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wLNuW1tCKRiPmDV5Yx/giphy.gif"/>
+🚀 About Me
 
-🧠 MERN Stack Developer
+🌱 Learning MERN Stack & Data Structures
 
-🚀 Clean backend + elegant UI enthusiast
+👨‍💻 Currently building full-stack projects with clean backend architecture
 
-🔬 Currently sharpening DSA & System Design basics
+🔧 Experienced with EJS, MongoDB aggregation, and scalable e-commerce features
 
-📦 Building full-stack projects with Express + MongoDB + EJS/React
+🧠 Strong focus on problem-solving, clean UI, and optimized backend logic
 
-⚡ Loves creating real-world features (orders, payments, coupons, dashboards)
+⌨️ Typing enthusiast — completed 360+ levels on TypingClub
 
-⌨ Typing addict — 360+ TypingClub levels
+🎯 Background: Mechanical Engineer → Machine Operator → Software Developer
 
-🎯 Mechanical Engineer → Machine Operator → Software Developer
-
-🌐 Connect
+🌐 Connect With Me
 
 
 
 
-🧰 Tech Arsenal
-⚡ Languages & Core
-<img src="https://skillicons.dev/icons?i=js,html,css,cpp" />
-⚙️ Backend
+🧰 Tech Stack
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
+Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-🎨 Frontend & UI
-<img src="https://skillicons.dev/icons?i=react,bootstrap,figma" />
-🔧 Tools
+Other Tools
 <img src="https://skillicons.dev/icons?i=git,vscode,postman,notion" />
-🚀 Featured Work
-🔥 E-Commerce System (Node.js + EJS + MongoDB)
+🛠️ What I Do
 
-A full-stack project with:
-✔ Coupon engine
-✔ Offers & cart logic
-✔ Razorpay + Wallet + COD
-✔ Order cancel/return with refund logic
-✔ Admin dashboard
+🔹 Build clean, responsive UI with React, EJS & Bootstrap
 
-Tech: Express, MongoDB Aggregation, EJS, Bootstrap
+🔹 Create fast backend APIs with Node.js & Express
 
-🌑 Dark Folio Tracker — Vercel Hosted
+🔹 Optimize DB logic using MongoDB Aggregation Pipelines
 
-Your latest portfolio with futuristic animations & dark theme.
+🔹 Implement advanced features like
+✔️ Offer & coupon systems
+✔️ Cart logic & pagination
+✔️ Razorpay, Wallet & COD payments
+✔️ Admin dashboards
 
-<img src="https://i.imgur.com/WzZ1c6R.gif" width="500" />
-📊 Dev Stats Dashboard
-🧬 GitHub Analytics
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahadSaleel&show_icons=true&theme=nightowl&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahadSaleel&theme=nightowl&hide_border=true" />
-🧠 LeetCode Progress
-<img width="100%" src="https://leetcard.jacoblin.cool/SahadSaleel?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-🛰️ Terminal
-> fetch sahad_saleel
+🔹 Design UI/UX mockups in Figma
 
-{
-  "role": "Full Stack Developer",
-  "focus": "MERN + DSA",
-  "status": "Building cool things...",
-  "location": "India",
-  "mode": "Always in dark mode 🔥"
-}
+📈 GitHub Overview
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahadSaleel&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahadSaleel&theme=tokyonight&hide_border=true" />
+🧠 LeetCode Stats
+<img src="https://leetcard.jacoblin.cool/SahadSaleel?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="100%" />
+🚀 My Recent Projects
+🔥 Dark Folio Tracker (Hosted on Vercel)
 
-⚡ Quote I Live By
+A sleek portfolio site tracking skills, tools, and projects in a clean dark UI.
+<a href="https://your-vercel-link.com">
+<img src="https://i.imgur.com/QHO3I17.gif" width="500"/>
+</a>
 
-“Keep building. The future belongs to the consistent.”
+🛍️ E-Commerce System (Node.js + EJS + MongoDB)
+
+Offer & coupon system
+
+Cart logic with AJAX
+
+Order cancellation & return
+
+Razorpay + Wallet payments
+
+🎨 Aesthetic Dev GIF
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+💬 “Code. Improve. Repeat.”
+
+✨ Always learning. Always building. Always moving forward.
