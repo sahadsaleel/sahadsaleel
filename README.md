@@ -1,74 +1,55 @@
-✨ Hey, I'm Sahad Saleel!
+👋 Hi there, I'm Sahad Saleel
+<img align="right" width="330" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+🌱 Currently learning
 
-A MERN Stack Developer | DSA Learner | Building Clean & Scalable Apps
+MERN Stack & DSA
 
-<img align="right" width="330" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJtdjU4a3FibGo1Y3UwN2Rnc24zZWVoZzd3Z3Z1bW1mMmFnNmk2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wLNuW1tCKRiPmDV5Yx/giphy.gif"/>
-🚀 About Me
+🔭 Portfolio
 
-🌱 Learning MERN Stack & Data Structures
+https://sahad-saleel-portfolio.vercel.app/
 
-👨‍💻 Currently building full-stack projects with clean backend architecture
+📘 Student @
 
-🔧 Experienced with EJS, MongoDB aggregation, and scalable e-commerce features
-
-🧠 Strong focus on problem-solving, clean UI, and optimized backend logic
-
-⌨️ Typing enthusiast — completed 360+ levels on TypingClub
-
-🎯 Background: Mechanical Engineer → Machine Operator → Software Developer
-
-🌐 Connect With Me
+Brototype
 
 
+⚡ Fun fact
+
+I practice typing for 1 hour daily and completed 360 levels in TypingClub.
 
 
-🧰 Tech Stack
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-Other Tools
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,notion" />
-🛠️ What I Do
+🎯 Journey
 
-🔹 Build clean, responsive UI with React, EJS & Bootstrap
+Mechanical Engineering → Machine Operator → Software Developer
 
-🔹 Create fast backend APIs with Node.js & Express
 
-🔹 Optimize DB logic using MongoDB Aggregation Pipelines
 
-🔹 Implement advanced features like
-✔️ Offer & coupon systems
-✔️ Cart logic & pagination
-✔️ Razorpay, Wallet & COD payments
-✔️ Admin dashboards
+🚀 Tech Stack
 
-🔹 Design UI/UX mockups in Figma
+<img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/express.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/ejs.png"/>
 
-📈 GitHub Overview
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahadSaleel&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahadSaleel&theme=tokyonight&hide_border=true" />
-🧠 LeetCode Stats
-<img src="https://leetcard.jacoblin.cool/SahadSaleel?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="100%" />
-🚀 My Recent Projects
-🔥 Dark Folio Tracker (Hosted on Vercel)
+🛠 Tools I Use
 
-A sleek portfolio site tracking skills, tools, and projects in a clean dark UI.
-<a href="https://your-vercel-link.com">
-<img src="https://i.imgur.com/QHO3I17.gif" width="500"/>
-</a>
+<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/notion.png"/>
 
-🛍️ E-Commerce System (Node.js + EJS + MongoDB)
 
-Offer & coupon system
-
-Cart logic with AJAX
-
-Order cancellation & return
-
-Razorpay + Wallet payments
-
-🎨 Aesthetic Dev GIF
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+
 💬 “Code. Improve. Repeat.”
 
 ✨ Always learning. Always building. Always moving forward.
+
+
+
+
+📈 GitHub Overview
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahadSaleel&show_icons=true&theme=tokyonight&hide_border=true" /> 
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahadSaleel&theme=tokyonight&hide_border=true" />
+
+
+🧠 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/SahadSaleel?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="50%" />
