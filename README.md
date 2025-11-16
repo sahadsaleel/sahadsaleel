@@ -1,63 +1,72 @@
-🧊 Sahad Saleel
-Full-Stack Developer • MERN Stack Enthusiast • DSA Learner
-✨ About Me
+<img src="https://media.tenor.com/2uyENR6pC8kAAAAC/coding.gif" width="70"/> Sahad Saleel — Full-Stack Developer
 
-MERN Stack Developer — building clean UI & scalable backend systems
+Crafting clean experiences. Building scalable systems.
+Living in dark mode. 🚀
 
-Currently improving DSA + Node.js architecture
+⚡ About Me
+<img align="right" width="340" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRseXZ3MGNkbmpuang0OHprOXJ3czEzbTlpYmx2ZGszZGw2cmw5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3iyKHMIKg5VWG6qHUm/giphy.gif">
 
-Strong experience in MongoDB Aggregation, Express, EJS
+🧠 MERN Stack Developer
 
-Loves building real-world features: Coupons, Offers, Cart, Payments, Admin Dashboard
+🚀 Clean backend + elegant UI enthusiast
 
-Transitioned from Mechanical Engineering → Machine Operator → Software Developer
+🔬 Currently sharpening DSA & System Design basics
 
-Typing: 360+ levels on TypingClub
+📦 Building full-stack projects with Express + MongoDB + EJS/React
 
-🧊 Tech Stack
-HTML • CSS • JavaScript • React  
-Node.js • Express.js • MongoDB  
-Bootstrap • EJS • Figma  
-Git • VS Code • Postman • Notion
+⚡ Loves creating real-world features (orders, payments, coupons, dashboards)
 
-🌐 Connect With Me
+⌨ Typing addict — 360+ TypingClub levels
 
-LinkedIn
+🎯 Mechanical Engineer → Machine Operator → Software Developer
 
-Portfolio
+🌐 Connect
 
-🧩 Featured Projects
-🛍️ E-Commerce System (Node.js + EJS + MongoDB)
 
-Coupon + Offers System
 
-Cart, Pagination, Search
 
-Wallet, Razorpay, COD
+🧰 Tech Arsenal
+⚡ Languages & Core
+<img src="https://skillicons.dev/icons?i=js,html,css,cpp" />
+⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+🎨 Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,bootstrap,figma" />
+🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,notion" />
+🚀 Featured Work
+🔥 E-Commerce System (Node.js + EJS + MongoDB)
 
-Order Cancellation + Returns
+A full-stack project with:
+✔ Coupon engine
+✔ Offers & cart logic
+✔ Razorpay + Wallet + COD
+✔ Order cancel/return with refund logic
+✔ Admin dashboard
 
-Admin Dashboard
+Tech: Express, MongoDB Aggregation, EJS, Bootstrap
 
-🌑 Dark Folio Tracker (Vercel)
+🌑 Dark Folio Tracker — Vercel Hosted
 
-A modern dark-mode personal portfolio with smooth UI.
+Your latest portfolio with futuristic animations & dark theme.
 
-📊 GitHub Stats
-
+<img src="https://i.imgur.com/WzZ1c6R.gif" width="500" />
+📊 Dev Stats Dashboard
+🧬 GitHub Analytics
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahadSaleel&show_icons=true&theme=nightowl&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahadSaleel&theme=nightowl&hide_border=true" />
 🧠 LeetCode Progress
-
-🖥️ Terminal Snapshot
-> sahad --info
+<img width="100%" src="https://leetcard.jacoblin.cool/SahadSaleel?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+🛰️ Terminal
+> fetch sahad_saleel
 
 {
-  role: "Full Stack Developer",
-  focus: "MERN + DSA",
-  mode: "Glass Minimal",
-  typing_speed: "⚡ improving daily",
-  mission: "Build clean & modern interfaces"
+  "role": "Full Stack Developer",
+  "focus": "MERN + DSA",
+  "status": "Building cool things...",
+  "location": "India",
+  "mode": "Always in dark mode 🔥"
 }
 
-🧊 Quote
+⚡ Quote I Live By
 
-"Clarity builds quality. Simplicity builds focus."
+“Keep building. The future belongs to the consistent.”
