@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 SAHAD SALEEL C  
+# 👨‍💻 SAHAD SALEEL C
 ### 🚀 MERN Stack Developer | Problem Solver | Lifelong Learner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DSA+Learner;Building+Real-World+Projects;Mechanical+Engineer+→+Software+Developer" />
@@ -36,6 +36,8 @@
 
 ---
 
+## 🛤️ My Journey
+
 
 > *I didn’t switch careers overnight.  
 I showed up every day and built skills step by step.*
@@ -65,8 +67,8 @@ I showed up every day and built skills step by step.*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahadsaleel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahadsaleel&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahadSaleel&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahadSaleel&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -114,7 +116,3 @@ I showed up every day and built skills step by step.*
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
-
-
-## 🛤️ My Journey
-
